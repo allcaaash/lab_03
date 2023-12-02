@@ -28,5 +28,7 @@ public class example19_03_recursion {
         for (int i = 0; i < value; i++) {
             System.out.print(fibonacciSequence(i) + " ");
         }
+
+        scanner.close();
     }
 }

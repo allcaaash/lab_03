@@ -37,5 +37,7 @@ public class example19_03_for {
                 secondNum = nextNum;
             }
         }
+
+        scanner.close();
     }
 }

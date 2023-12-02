@@ -56,5 +56,6 @@ public class example19_01 {
             }
         }
 
+        scanner.close();
     }
 }

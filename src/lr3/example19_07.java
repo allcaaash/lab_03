@@ -1,6 +1,5 @@
 package lr3;
 
-import java.util.Scanner;
 
 public class example19_07 {
 
@@ -29,5 +28,7 @@ public class example19_07 {
 
             System.out.print(alphabet[i] + " ");
         }
+
+
     }
 }

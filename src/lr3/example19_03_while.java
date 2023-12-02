@@ -39,5 +39,7 @@ public class example19_03_while {
                 iter++;
             }
         }
+
+        scanner.close();
     }
 }

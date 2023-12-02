@@ -38,5 +38,7 @@ public class example19_02_if_else {
         else {
             System.out.println("You have entered an incorrect name of the day of the week");
         }
+
+        scanner.close();
     }
 }

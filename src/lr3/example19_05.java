@@ -54,5 +54,7 @@ public class example19_05 {
         }
 
         System.out.print(sum);
+
+        scanner.close();
     }
 }

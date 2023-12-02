@@ -32,5 +32,7 @@ public class example19_04_for {
 
             System.out.print(it + " ");
         }
+
+        scanner.close();
     }
 }

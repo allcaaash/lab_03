@@ -38,5 +38,7 @@ public class example19_06 {
 
             System.out.print(array[i] + " ");
         }
+
+        in.close();
     }
 }

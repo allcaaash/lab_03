@@ -40,5 +40,7 @@ public class example19_02_switch_case {
                 System.out.println("You have entered an incorrect name of the day of the week");
                 break;
         }
+
+        scanner.close();
     }
 }

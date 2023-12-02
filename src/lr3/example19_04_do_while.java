@@ -34,5 +34,7 @@ public class example19_04_do_while {
             it++;
         }
         while(it <= secondNum);
+
+        scanner.close();
     }
 }

@@ -34,5 +34,7 @@ public class example19_04_while {
             System.out.print(it + " ");
             it++;
         }
+
+        scanner.close();
     }
 }
